@@ -3,7 +3,9 @@
 
 # kaisar-get-data
 
-批量获取kaisai账号积分，报错到excel文件中
+批量获取kaisai账号积分，账号信息保存到 kaisar_data.xlsx
+
+账号登录失败把账号密码保存到 account_error.txt
 
 # 启动脚本
 
