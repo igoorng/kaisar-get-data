@@ -1,5 +1,5 @@
 # kaisar注册链接
-[点击注册 Kaisar](https://zero.kaisar.io/register?ref=fiAgAd883)
+[点击注册](https://zero.kaisar.io/register?ref=fiAgAd883)
 
 # kaisar-get-data
 
